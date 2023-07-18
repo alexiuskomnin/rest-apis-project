@@ -1,6 +1,5 @@
 test
 .vscode
 __pycache__
-data.db
 *.pyc
 .DS_Store
